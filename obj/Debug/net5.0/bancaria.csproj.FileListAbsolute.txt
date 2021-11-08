@@ -1,0 +1,16 @@
+C:\Users\guisa\Documents\c-sharp\bancaria\bin\Debug\net5.0\bancaria.exe
+C:\Users\guisa\Documents\c-sharp\bancaria\bin\Debug\net5.0\bancaria.deps.json
+C:\Users\guisa\Documents\c-sharp\bancaria\bin\Debug\net5.0\bancaria.runtimeconfig.json
+C:\Users\guisa\Documents\c-sharp\bancaria\bin\Debug\net5.0\bancaria.runtimeconfig.dev.json
+C:\Users\guisa\Documents\c-sharp\bancaria\bin\Debug\net5.0\bancaria.dll
+C:\Users\guisa\Documents\c-sharp\bancaria\bin\Debug\net5.0\ref\bancaria.dll
+C:\Users\guisa\Documents\c-sharp\bancaria\bin\Debug\net5.0\bancaria.pdb
+C:\Users\guisa\Documents\c-sharp\bancaria\obj\Debug\net5.0\bancaria.csproj.AssemblyReference.cache
+C:\Users\guisa\Documents\c-sharp\bancaria\obj\Debug\net5.0\bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guisa\Documents\c-sharp\bancaria\obj\Debug\net5.0\bancaria.AssemblyInfoInputs.cache
+C:\Users\guisa\Documents\c-sharp\bancaria\obj\Debug\net5.0\bancaria.AssemblyInfo.cs
+C:\Users\guisa\Documents\c-sharp\bancaria\obj\Debug\net5.0\bancaria.csproj.CoreCompileInputs.cache
+C:\Users\guisa\Documents\c-sharp\bancaria\obj\Debug\net5.0\bancaria.dll
+C:\Users\guisa\Documents\c-sharp\bancaria\obj\Debug\net5.0\ref\bancaria.dll
+C:\Users\guisa\Documents\c-sharp\bancaria\obj\Debug\net5.0\bancaria.pdb
+C:\Users\guisa\Documents\c-sharp\bancaria\obj\Debug\net5.0\bancaria.genruntimeconfig.cache
